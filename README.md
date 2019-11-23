@@ -36,11 +36,9 @@ Each folder has an explanatory `README.md` file
 
 * `favicons` contains the favicons for the website.
 
-* `files` will contain arbitrary files.
 
-
-## Workflow
+## Git Workflow
 
 Instead of all working directly out of the main branch, you can try adopting a Git branching model for development. See, e.g., [this article by Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/) and the included image:
 
-![Image of Git branching model by VIncent Driessen](http://www.ccs.neu.edu/home/cody/courses/shared/git-model.png)s
+![Image of Git branching model by Vincent Driessen](http://www.ccs.neu.edu/home/cody/courses/shared/git-model.png)
